@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c516805c07bc3784789f1aefad83a327
+timeCreated: 1449122951
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyRd: {fileID: 5477916, guid: 6e444855b0a47ca4b841033cc4e63629, type: 2}
+  - enemyBullet: {fileID: 136638, guid: 916aa89870d26274887909d5851aee96, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
